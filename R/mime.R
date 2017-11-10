@@ -13,7 +13,7 @@ otherMIMETypes = c("r" = "text/R-code", # perhaps x-application/r-code
                    "svg" = "image/svg+xml",
                    "json" = "application/json")
 
-globalVariables("mimeTypeExtensions")
+#globalVariables("mimeTypeExtensions")
 
 guessMIMEType =
   #
